@@ -15,7 +15,7 @@ Based on the project's statement, create a PDF file containing the technical des
 ## RO
 În funcție de enunțul proiectului, creați un fișier PDF care să conțină detaliile tehnice ale proiectului.
 
-### (1p) Documentul PDF respectă formatul din exemplu
+### (1p) Documentul PDF respectă formatul din [exemplu](ro_example.pdf)
 ### (2p) Documentul PDF conține descrierea proiectului și taskurile împărțite între membrii echipei
 ### (2p) Documentul PDF conține structura tuturor fișierelor folosite de către echipă pentru comunicarea între aplicații
 ### (3p) Documentul PDF conține toate comenzile pe care aplicațiile le vor expune
