@@ -2,7 +2,7 @@
 ## EN
 Based on the project's statement, create a PDF file containing the technical description of the project.
 
-- (1p) PDF follows the example format
+- (1p) PDF follows the example format from [example](en_example.pdf)
 - (2p) PDF contains project's description with tasks split by students
 - (2p) PDF contains data structures used by the team
 - (2p) PDF contains all file's structures used to communicate between the apps
